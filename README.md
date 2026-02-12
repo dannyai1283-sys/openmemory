@@ -1,16 +1,15 @@
 # 🧠 OpenMemory
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/openmemory/openmemory)](https://github.com/openmemory/openmemory/releases)
-[![PyPI](https://img.shields.io/pypi/v/openmemory)](https://pypi.org/project/openmemory/)
+[![GitHub release](https://img.shields.io/github/v/release/dannyai1283-sys/openmemory)](https://github.com/dannyai1283-sys/openmemory/releases)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/openmemory)
-[![Tests](https://github.com/openmemory/openmemory/workflows/CI/badge.svg)](https://github.com/openmemory/openmemory/actions)
-[![codecov](https://codecov.io/gh/openmemory/openmemory/branch/main/graph/badge.svg)](https://codecov.io/gh/openmemory/openmemory)
+[![X (Twitter)](https://img.shields.io/badge/X-@OpenMemory2026-black?logo=x)](https://x.com/OpenMemory2026)
 
 > **Universal Memory Layer for AI Agents** - Give your AI agents the gift of memory 🎁
+>
+> *Created by [Hoa Đang](https://github.com/dannyai1283-sys) & Dan (AI Assistant)*
 
-[📖 Documentation](https://openmemory.readthedocs.io) • [💬 Discord](https://discord.gg/openmemory) • [🚀 Quick Start](#quick-start) • [🤝 Contributing](CONTRIBUTING.md)
+[🚀 Quick Start](#quick-start) • [🤝 Contributing](CONTRIBUTING.md) • [🐦 X @OpenMemory2026](https://x.com/OpenMemory2026)
 
 ---
 
@@ -300,11 +299,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📚 Resources
 
-- [📖 Documentation](https://openmemory.readthedocs.io)
 - [🚀 Quick Start](docs/QUICKSTART.md)
 - [🏗️ Architecture](docs/ARCHITECTURE.md)
 - [🗺️ Roadmap](ROADMAP.md)
-- [💬 Discord](https://discord.gg/openmemory)
+- [🐦 X @OpenMemory2026](https://x.com/OpenMemory2026)
 
 ---
 
@@ -321,12 +319,21 @@ See full [ROADMAP.md](ROADMAP.md)
 
 ## 💬 Community
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/openmemory)
-[![Twitter](https://img.shields.io/twitter/follow/OpenMemoryAI?style=social)](https://twitter.com/OpenMemoryAI)
+[![X (Twitter)](https://img.shields.io/badge/X-@OpenMemory2026-black?logo=x)](https://x.com/OpenMemory2026)
 
-- **Discord:** [discord.gg/openmemory](https://discord.gg/openmemory)
-- **Twitter:** [@OpenMemoryAI](https://twitter.com/OpenMemoryAI)
-- **GitHub Discussions:** [github.com/openmemory/openmemory/discussions](https://github.com/openmemory/openmemory/discussions)
+- **X (Twitter):** [@OpenMemory2026](https://x.com/OpenMemory2026)
+- **GitHub Discussions:** [github.com/dannyai1283-sys/openmemory/discussions](https://github.com/dannyai1283-sys/openmemory/discussions)
+
+---
+
+## 👥 Creators
+
+**OpenMemory** was created by:
+
+- **[Hoa Đang](https://github.com/dannyai1283-sys)** - Vision, Architecture, Product
+- **Dan (AI Assistant)** - Code, Documentation, Implementation
+
+Together, we believe AI agents deserve better memory.
 
 ---
 
@@ -341,14 +348,13 @@ MIT License - see [LICENSE](LICENSE)
 ## 🙏 Acknowledgments
 
 - Inspired by [mem0](https://github.com/mem0ai/mem0)
-- Built for [OpenClaw](https://openclaw.ai) community
+- Built for [OpenClaw](https://docs.openclaw.ai) community
 - Powered by [sentence-transformers](https://www.sbert.net/)
 
 ---
 
 <p align="center">
   <b>Give your AI agents the gift of memory 🎁</b><br>
-  <a href="https://github.com/openmemory/openmemory">⭐ Star us on GitHub</a> •
-  <a href="https://pypi.org/project/openmemory/">📦 PyPI</a> •
-  <a href="https://discord.gg/openmemory">💬 Discord</a>
+  <a href="https://github.com/dannyai1283-sys/openmemory">⭐ Star us on GitHub</a> •
+  <a href="https://x.com/OpenMemory2026">🐦 Follow @OpenMemory2026</a>
 </p>
